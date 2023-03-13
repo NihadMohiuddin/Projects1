@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-11T17:47:34 IST" name="Default suite" finished-at="2023-03-11T17:48:59 IST" duration-ms="85690">
+    <groups>
+    </groups>
+    <test started-at="2023-03-11T17:47:34 IST" name="Default test" finished-at="2023-03-11T17:48:59 IST" duration-ms="85690">
+      <class name="com.ReactShoppingCart.TestCases.HomePageTest">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:com.ReactShoppingCart.TestCases.HomePageTest@6a400542]" started-at="2023-03-11T17:47:34 IST" name="LaunchBrowser" finished-at="2023-03-11T17:47:38 IST" duration-ms="4259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="VerifyProductisAddedtoCartTest()[pri:1, instance:com.ReactShoppingCart.TestCases.HomePageTest@6a400542]" started-at="2023-03-11T17:47:38 IST" name="VerifyProductisAddedtoCartTest" finished-at="2023-03-11T17:48:59 IST" duration-ms="81370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductisAddedtoCartTest -->
+      </class> <!-- com.ReactShoppingCart.TestCases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
