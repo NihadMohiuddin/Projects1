@@ -7,7 +7,7 @@ import java.awt.event.KeyEvent;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-nnn
+
 public class sample1 {
 
 	public static void main(String[] args) throws InterruptedException, AWTException {
