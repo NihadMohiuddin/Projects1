@@ -10,7 +10,7 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.testng.annotations.Test;
 
-public class excel {
+public class excelTest {
 
 	
 	String filepath="C:\\Users\\Ya Rahman\\OneDrive\\Desktop\\Asian_pom.xlsx";
